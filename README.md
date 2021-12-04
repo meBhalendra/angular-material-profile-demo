@@ -7,9 +7,13 @@
 5. ng add @angular/material
 6. try some component by importing module in app.module.ts and add template in app.component.html
 
-# Components
+# Concepts & Components
 
-- Flex
+- HTML, CSS, Flex
+- Angular Component
+- Card
 - Chips
 - List
 - Icons
+
+![](ss-1.png)
