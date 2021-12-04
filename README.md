@@ -18,4 +18,6 @@
 
 ## [Heroku Demo Link](https://mengmatdemo.herokuapp.com)
 
+## [Slides](https://docs.google.com/presentation/d/102I5-RFPB1Qn5b-VHzLs37bCJzq5FgtDSuotcg2Oq5M/edit?usp=sharing)
+
 ![](ss-1.png)
